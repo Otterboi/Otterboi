@@ -24,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otterboi&show_icons=true&theme=dark&text_color=ffffff&hide_border=true&locale=en" alt="otterboi" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otterboi&label=Profile%20views&color=0dc923&style=flat" alt="otterboi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otterboi&theme=onedark" alt="otterboi" /></a> </p>

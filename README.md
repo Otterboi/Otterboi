@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Pagliuca a.k.a Otterboi</h1>
 <h3 align="center">A passionate Front-end and Back-end Developer from Canada</h3>
 
-- 🔭 I’m currently working on [Mini Capstone Project: Concordia Campus Guide](https://github.com/MTEspo/SE390-Mini-capstone-project)
+- 🔭 I’m currently working on Capstone Project
 
 - 🌱 I’m currently learning **Testing**
 

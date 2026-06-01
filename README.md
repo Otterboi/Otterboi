@@ -3,6 +3,7 @@
 <p>I enjoy solving complex problems and finding the most efficient and optimal solutions.</p>
 
 # Skills & Technologies
+<!-- Frontend -->
 <p>
   <img alt="react" src="https://img.shields.io/badge/-react-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img alt="react-native" src="https://img.shields.io/badge/-react%20native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
@@ -12,6 +13,7 @@
   <img alt="" src="https://img.shields.io/badge/-css-663399?logo=css&logoColor=white&style=for-the-badge" />
 </p>
 
+<!-- Backend -->
 <p>
   <img alt="nodejs" src="https://img.shields.io/badge/-nodejs-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" />
   <img alt="fastapi" src="https://img.shields.io/badge/-fastapi-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
@@ -20,6 +22,7 @@
   <img alt="neo4j" src="https://img.shields.io/badge/-neo4j-4581C3?logo=neo4j&logoColor=white&style=for-the-badge" />
 </p>
 
+<!-- Languages -->
 <p>
   <img alt="java" src="https://img.shields.io/badge/-java-000000?logo=openjdk&logoColor=white&style=for-the-badge" />
   <img alt="python" src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -30,6 +33,7 @@
   <img alt="sql" src="https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
+<!-- Technologies -->
 <p>
   <img alt="git" src="https://img.shields.io/badge/-git-F03C2E?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="docker" src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
@@ -43,5 +47,5 @@
 </p>
 
 # GitHub Stats
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=otterboi&theme=radical&hide_border=true&layout=compact&langs_count=10&hide=shaderlab,hlsl)
 ![Joseph Pagliuca's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=otterboi&theme=radical&show_icons=true&hide_border=true&rank_icon=github&ring_color=00000000&card_width=250)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=otterboi&theme=radical&hide_border=true&layout=compact&langs_count=10&hide=shaderlab,hlsl)

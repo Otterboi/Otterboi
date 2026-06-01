@@ -1,5 +1,5 @@
 # About Me
-<p>I am a Software Engineering graudate with a passion for backend development and a solid foundation in object-oriented programming.</p>
+<p>Software Engineering graudate with a passion for backend development and a solid foundation in object-oriented programming.</p>
 <p>I enjoy solving complex problems and finding the most efficient and optimal solutions.</p>
 
 # Skills & Technologies
